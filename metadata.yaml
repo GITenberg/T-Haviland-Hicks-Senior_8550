@@ -1,0 +1,21 @@
+_repo: T-Haviland-Hicks-Senior_8550
+creator:
+  author:
+    agent_name: Elderdice, J. Raymond
+    gutenberg_agent_id: '2799'
+    url: http://www.gutenberg.org/2009/agents/2799
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'College stories'
+- !lcsh 'College sports -- Juvenile fiction'
+- !lcc 'PZ'
+title: T. Haviland Hicks Senior
+url: http://www.gutenberg.org/ebooks/8550
