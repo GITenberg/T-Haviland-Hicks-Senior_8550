@@ -1,10 +1,16 @@
 _repo: T-Haviland-Hicks-Senior_8550
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Elderdice, J. Raymond
     gutenberg_agent_id: '2799'
     url: http://www.gutenberg.org/2009/agents/2799
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8550#T-Haviland-Hicks-Senior
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
